@@ -1,3 +1,3 @@
 # k-means
 
-this is for studies
+Лаб 1 ИИС
